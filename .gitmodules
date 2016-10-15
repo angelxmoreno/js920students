@@ -1,0 +1,33 @@
+[submodule "jslez.github.io"]
+	path = james.slezak
+	url = git@github.com:jslez/jslez.github.io.git
+[submodule "streetrader.github.io"]
+	path = nick.lonzisero
+	url = https://github.com/streetrader/streetrader.github.io
+[submodule "jsd920_class_repo"]
+	path = alex.arguimbau
+	url = git@github.com:Args82/jsd920_class_repo.git
+[submodule "jsd04_class_repo"]
+	path = malcolm.williams
+	url = git@github.com:illertimes/jsd04_class_repo.git
+[submodule "XenoEmblems.github.io"]
+	path = eric.doyle
+	url = git@github.com:XenoEmblems/XenoEmblems.github.io.git
+[submodule "catespinosa.github.io"]
+	path = catherine.espinosa
+	url = git@github.com:catespinosa/catespinosa.github.io.git
+[submodule "fburchdev.github.io"]
+	path = frances.burch
+	url = git@github.com:fburchdev/fburchdev.github.io.git
+[submodule "brikerr.github.io"]
+	path = brian.kerr
+	url = git@github.com:brikerr/brikerr.github.io.git
+[submodule "analeekasudia.github.io"]
+	path = analee.kasudia
+	url = git@github.com:analeekasudia/analeekasudia.github.io.git
+[submodule "microsarah.github.io"]
+	path = sara.hallacher
+	url = git@github.com:microsarah/microsarah.github.io.git
+[submodule "sylviacarol.github.io"]
+	path = sylvia.carolina
+	url = git@github.com:sylviacarol/sylviacarol.github.io.git
